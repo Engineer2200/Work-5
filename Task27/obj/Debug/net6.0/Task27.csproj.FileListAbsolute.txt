@@ -1,0 +1,15 @@
+X:\EEE4\Task27\bin\Debug\net6.0\Task27.exe
+X:\EEE4\Task27\bin\Debug\net6.0\Task27.deps.json
+X:\EEE4\Task27\bin\Debug\net6.0\Task27.runtimeconfig.json
+X:\EEE4\Task27\bin\Debug\net6.0\Task27.dll
+X:\EEE4\Task27\bin\Debug\net6.0\Task27.pdb
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.csproj.AssemblyReference.cache
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.AssemblyInfoInputs.cache
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.AssemblyInfo.cs
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.csproj.CoreCompileInputs.cache
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.dll
+X:\EEE4\Task27\obj\Debug\net6.0\refint\Task27.dll
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.pdb
+X:\EEE4\Task27\obj\Debug\net6.0\Task27.genruntimeconfig.cache
+X:\EEE4\Task27\obj\Debug\net6.0\ref\Task27.dll
