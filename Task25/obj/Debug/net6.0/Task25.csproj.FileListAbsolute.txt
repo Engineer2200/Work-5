@@ -1,0 +1,15 @@
+X:\EEE4\Task25\bin\Debug\net6.0\Task25.exe
+X:\EEE4\Task25\bin\Debug\net6.0\Task25.deps.json
+X:\EEE4\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+X:\EEE4\Task25\bin\Debug\net6.0\Task25.dll
+X:\EEE4\Task25\bin\Debug\net6.0\Task25.pdb
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.dll
+X:\EEE4\Task25\obj\Debug\net6.0\refint\Task25.dll
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.pdb
+X:\EEE4\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+X:\EEE4\Task25\obj\Debug\net6.0\ref\Task25.dll
