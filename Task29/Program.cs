@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int [] arr = new int [8];
+for(int i = 0; i < arr.Length; i++)
+{
+arr[i] = new Random().Next(0,101);
+}
+Console.Write('[' + string.Join(", ", arr) + ']');

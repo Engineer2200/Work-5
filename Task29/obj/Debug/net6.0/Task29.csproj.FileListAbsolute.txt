@@ -1,0 +1,15 @@
+X:\EEE4\Task29\bin\Debug\net6.0\Task29.exe
+X:\EEE4\Task29\bin\Debug\net6.0\Task29.deps.json
+X:\EEE4\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+X:\EEE4\Task29\bin\Debug\net6.0\Task29.dll
+X:\EEE4\Task29\bin\Debug\net6.0\Task29.pdb
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.dll
+X:\EEE4\Task29\obj\Debug\net6.0\refint\Task29.dll
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.pdb
+X:\EEE4\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+X:\EEE4\Task29\obj\Debug\net6.0\ref\Task29.dll
